@@ -56,11 +56,15 @@ I'm a passionate full-stack software developer with a strong interest in **front
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naman9271&label=Profile%20views&color=0e75b6&style=flat" alt="naman9271" /> </p>
   
 ## 📫 Connect with Me
+  
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-jain-nj2006/)
+   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naman9271)
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-jain-nj2006/)
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naman9271)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9271&show_icons=true&locale=en&layout=compact" alt="naman9271" /></p>
 
 
 
