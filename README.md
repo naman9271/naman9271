@@ -59,7 +59,7 @@ I'm a passionate full-stack software developer with a strong interest in **front
   
 ## 📫 Connect with Me
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/naman-jain-nj2006)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/naman-jain-nj2006](https://www.linkedin.com/in/naman-jain-nj2006/))
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naman9271)
 
 
