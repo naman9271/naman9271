@@ -66,6 +66,6 @@ I'm a passionate full-stack software developer with a strong interest in **front
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9271&show_icons=true&locale=en&layout=compact" alt="naman9271" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman9271&show_icons=true&locale=en" alt="naman9271" /></p>
 
 *Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!*
