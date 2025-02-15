@@ -7,9 +7,8 @@ I'm a passionate **full-stack software developer** with a strong interest in **f
 - 🔭 Currently working on **React.js** projects  
 - 🌱 Learning **Next.js**  
 - 👯 Looking to collaborate on **open-source projects**  
-- 💬 Ask me about **full-stack development**  
-- 📫 Reach me at **[namanjain9271@gmail.com](mailto:namanjain9271@gmail.com)**  
-
+- 💬 Ask me about **full-stack development**
+  
 ---
 
 ## 🛠️ Skills  
