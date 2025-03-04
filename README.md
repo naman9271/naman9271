@@ -8,6 +8,7 @@ I'm a passionate **full-stack software developer** with a strong interest in **f
 - 🌱 Learning **Next.js**  
 - 👯 Looking to collaborate on **open-source projects**  
 - 💬 Ask me about **full-stack development**
+- ⚡ Fun Fact My name **"Naman"** is a **palindrome**! It looks the same **forward 🔜 and backward 🔙**. Cool, right? 😃
   
 ---
 
