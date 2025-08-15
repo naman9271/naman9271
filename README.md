@@ -73,7 +73,6 @@ I'm a passionate **full-stack software developer** with a strong interest in **f
 <p align="left">
   <a href="https://www.linkedin.com/in/naman-jain-nj2006/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/naman9271"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://www.instagram.com/naman_97_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="mailto:namanjain9271@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
