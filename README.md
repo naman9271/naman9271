@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a passionate **full-stack software developer** with a strong interest in **BlockChain Development** and **hackathons**. I'm driven to explore the latest advancements in **Bitcoin and Defi, and software development**. I love connecting with like-minded professionals to stay updated on the latest industry trends and innovations.✨
+I'm a passionate **full-stack software developer** with a strong interest in **BlockChain Development** and **hackathons**. I'm driven to explore the latest advancements in **Bitcoin FOSS and software development**. I love connecting with like-minded professionals to stay updated on the latest industry trends and innovations.✨
 
 - 🔭 Currently working on **Web3** projects  
 - 🌱 Learning **Rust**  
