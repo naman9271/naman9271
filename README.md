@@ -8,10 +8,10 @@
 
 ## About Me
 
-I'm a passionate **full-stack software developer** with a strong interest in **frontend development** and **hackathons**. I'm driven to explore the latest advancements in **AI, machine learning, and software development**. I love connecting with like-minded professionals to stay updated on the latest industry trends and innovations.✨
+I'm a passionate **full-stack software developer** with a strong interest in **BlockChain Development** and **hackathons**. I'm driven to explore the latest advancements in **Bitcoin and Defi, and software development**. I love connecting with like-minded professionals to stay updated on the latest industry trends and innovations.✨
 
-- 🔭 Currently working on **React.js** projects  
-- 🌱 Learning **Next.js**  
+- 🔭 Currently working on **Web3** projects  
+- 🌱 Learning **Rust**  
 - 👯 Looking to collaborate on **open-source projects**  
 - 💬 Ask me about **full-stack development**
 - ⚡ Fun Fact My name **"Naman"** is a **palindrome**! It looks the same **forward 🔜 and backward 🔙**. Cool, right? 😃
@@ -47,12 +47,12 @@ I'm a passionate **full-stack software developer** with a strong interest in **f
   <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### **Data Science:**  
+<!--- ### **Data Science:**  
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-</p>
+</p> --->
 
 ### **Other Tools:**  
 <p align="left">
